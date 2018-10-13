@@ -5,7 +5,7 @@ import React from 'react'
 
 const person = () => {
     return (
-        <p> hello i am a person </p> 
+        <p> hello i am a person and I am {Math.floor(Math.random()*30)} years old! </p>   // JSX  allows us to use dynamic content by running JS in {}
     );
 }
 
