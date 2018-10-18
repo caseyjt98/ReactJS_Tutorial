@@ -15,5 +15,4 @@ const person = (props) => {
 };
 
 export default person; 
-
 // lets us use our component in other files of our project
